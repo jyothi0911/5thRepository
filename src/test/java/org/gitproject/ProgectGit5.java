@@ -11,6 +11,13 @@ public class ProgectGit5 {
 		 c=a+b;
 		
 	}
+		public void selected1() {
+			 int a=10;
+			 int b=20;
+			 int c=a+b;
+			 System.out.println(c);
+
+		}
 	public static void main(String[] args) {
 		
 		ProgectGit5 pg = new ProgectGit5();
